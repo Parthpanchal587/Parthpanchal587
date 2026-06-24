@@ -4,7 +4,7 @@ A 2nd yaer student at Arya College of Engineering and It,
 
 Email Me 👉 ✉️ mrparthpanchal007@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🌱 I’m currently learning: web devlopment, python language;
+🌱 I’m currently learning: web devlopment, python language, java;
 
 💬 Ask me about: any tech related issue to fix;
 
