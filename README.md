@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Parth Panchal
 
-A 2nd yaer student at Arya College of Engineering and It,
+A 2nd year student at Arya College of Engineering and It,
 
 Email Me 👉 ✉️ mrparthpanchal007@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
