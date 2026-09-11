@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=60&lines=root%40parth%3A~%24+sudo+access+granted;Compiling+ideas+into+code...;Shipping+web+apps%2C+bots+%26+experiments;Web+Dev+%7C+Python+%7C+Java+%7C+AI+Agents;while(true)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/26ufp9WCabepwGSbG/giphy.gif" width="480"/>
-
 </div>
 
 <br/>
@@ -26,13 +24,19 @@ fun_fact:    "I love tech and tech loves me back."
 status:      ● online — probably debugging something at 2 AM
 ```
 
+<!--
+  🐍 Contribution snake (optional): this animates your real contribution graph,
+  but it only renders once you generate it in YOUR OWN repo via the official action:
+  https://github.com/Platane/snk — then swap the src below for:
+  https://raw.githubusercontent.com/Parthpanchal587/Parthpanchal587/output/github-contribution-grid-snake-dark.svg
+-->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Work On
+## 💻 What I Work On
 
 ```bash
 $ ls -la ~/domains/
@@ -43,13 +47,18 @@ drwxr-xr-x  ai-agents/         # Claude Code, OpenCode, custom coding agents
 drwxr-xr-x  learning/          # Java, DSA, whatever breaks next
 ```
 
-I bounce between shipping web apps, running coding agents like Claude Code, wiring up local models through OpenCode, and jumping into hackathon builds with a team when a good problem statement shows up. Below is a live pull of whatever I've actually been committing to lately — not just one project.
+I bounce between shipping web apps, running coding agents like Claude Code, wiring up local models through OpenCode, and jumping into hackathon builds with a team when a good problem statement shows up. The stats section below pulls live from everything I've committed to — not just one project.
 
-<!-- 📌 Pin your favorite repos on GitHub (Profile → Customize your pins) and they'll show here automatically once you swap in your pinned-repo cards: -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parthpanchal587&repo=YOUR-REPO-1&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Parthpanchal587&repo=YOUR-REPO-2&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-</div>
+<!--
+  📌 Want specific repos pinned here instead of just stats? Easiest way: go to
+  github.com/Parthpanchal587 → "Customize your pins" and pick up to 6 — GitHub
+  renders those natively at the top of your profile, no broken-image risk.
+
+  If you'd rather embed repo cards manually in this README, uncomment below
+  and replace REPO-NAME with a real, existing repo of yours:
+
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Parthpanchal587&repo=REPO-NAME&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+-->
 
 ---
 
@@ -116,8 +125,8 @@ I bounce between shipping web apps, running coding agents like Claude Code, wiri
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parthpanchal587&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthpanchal587&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&layout=compact" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Parthpanchal587&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Parthpanchal587&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&layout=compact" />
 
 <br/>
 
