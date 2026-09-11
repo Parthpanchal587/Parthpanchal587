@@ -1,45 +1,157 @@
-💫 Hi 👋, I'm Parth Panchal
-
-A 2nd year student at Arya College of Engineering and It,
-
-Email Me 👉 ✉️ mrparthpanchal007@gmail.com For Collaboration/Project or Anything Else. 😊😊
-
-🌱 I’m currently learning: web devlopment, python language, java;
-
-💬 Ask me about: any tech related issue to fix;
-
-📫 How to reach me: mrparthpanchal007@gmail.com
-
-😄 Pronouns: Parth Panchal;
-
-⚡ Fun fact: I Love Tech and Tech Love Me
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Parth%20Panchal&fontColor=00FF41&fontSize=55&animation=fadeIn&fontAlignY=35&desc=%3E%20whoami%20:%3A%20full-stack%20builder%20%7C%20AI%20tinkerer%20%7C%20SIH%202026&descAlignY=55&descSize=18&descColor=00FF41" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=60&lines=root%40parth%3A~%24+sudo+access+granted;Compiling+ideas+into+code...;Building+BHOOMI-NEXUS+for+SIH+2026;Web+Dev+%7C+Python+%7C+Java+%7C+AI+Agents;while(true)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Typing SVG" />
+
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_parth_pnchl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-panchal-1a2449387?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrparthpanchal007@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mrparthpanchal007-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mrparthpanchal007-art&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrparthpanchal007-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```bash
+┌──(parth㉿arya-college)-[~/second-year]
+└─$ cat about_me.txt
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrparthpanchal007-art&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```yaml
+name:        Parth Panchal
+role:        2nd Year Student @ Arya College of Engineering & IT
+currently:   Building BHOOMI-NEXUS — Smart India Hackathon 2026 (SIH26019)
+             National land governance platform | Blockchain + AI
+learning:    Web Development, Python, Java, AI Coding Agents
+ask_me:      Any tech-related issue — I'll help you fix it
+pronouns:    Parth Panchal
+fun_fact:    "I love tech and tech loves me back."
+status:      ● online — probably debugging something at 2 AM
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrparthpanchal007-art&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Currently Building
+
+```
+[BHOOMI-NEXUS] :: SIH 2026 (Problem Statement SIH26019)
+Team: Bhoomitech
+Mission: National digital land-governance platform powered by blockchain & AI
+Status: ▓▓▓▓▓▓▓▓░░ 80% — technical approach & deck in progress
+```
+
+I'm also deep in the AI-tooling rabbit hole — running coding agents like Claude Code, wiring up local models through OpenCode, and exploring animation-heavy modern web stacks (GSAP, Framer Motion, Three.js) styled with Tailwind CSS and shadcn/ui.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mrparthpanchal007-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=00FF41)](https://instagram.com/_parth_pnchl_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/parth-panchal-1a2449387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:mrparthpanchal007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mrparthpanchal007-art)
+
+---
+
+## 💻 Tech Arsenal
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+
+**Web & Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=00FF41)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=00FF41)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00FF41)
+![Framer](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FF41)
+
+**Backend, Data & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=00FF41)
+
+**AI & Agents**
+
+![Anthropic](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41)
+![OpenAI](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=00FF41)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=00FF41)
+
+**Fuel (gaming & hardware I geek out over)**
+
+![Riot Games](https://img.shields.io/badge/riotgames-000000.svg?style=for-the-badge&logo=riotgames&logoColor=00FF41)
+![Epic Games](https://img.shields.io/badge/epicgames-000000.svg?style=for-the-badge&logo=epicgames&logoColor=00FF41)
+![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=00FF41)
+![AMD](https://img.shields.io/badge/AMD-000000.svg?style=for-the-badge&logo=amd&logoColor=00FF41)
+![EA](https://img.shields.io/badge/ea-000000.svg?style=for-the-badge&logo=ea&logoColor=00FF41)
+
+---
+
+## 📊 System Diagnostics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrparthpanchal007-art&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrparthpanchal007-art&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&layout=compact" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mrparthpanchal007-art&theme=merko&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrparthpanchal007-art&theme=merko&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="95%"/>
+
+</div>
+
+## 🏆 Trophy Room
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mrparthpanchal007-art&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2" />
+</div>
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=mrparthpanchal007-art&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" />
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(parth㉿arya-college)-[~]
+└─$ echo "Thanks for visiting — let's build something."
+Thanks for visiting — let's build something.
+```
+
+[![](https://komarev.com/ghpvc/?username=mrparthpanchal007-art&icon=github&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%"/>
+
+</div>
+
+<!-- Proudly enhanced with a hacking-vibe upgrade -->
