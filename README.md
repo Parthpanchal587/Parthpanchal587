@@ -25,13 +25,11 @@ status:      ● online — probably debugging something at 2 AM
 ```
 
 <!--
-  🐍 Contribution snake (optional): this animates your real contribution graph,
-  but it only renders once you generate it in YOUR OWN repo via the official action:
-  https://github.com/Platane/snk — then swap the src below for:
-  https://raw.githubusercontent.com/Parthpanchal587/Parthpanchal587/output/github-contribution-grid-snake-dark.svg
+  🐍 Contribution snake animation:
+  Generated via .github/workflows/snake.yml to render your actual GitHub activity.
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Parthpanchal587/Parthpanchal587/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
@@ -48,17 +46,6 @@ drwxr-xr-x  learning/          # Java, DSA, whatever breaks next
 ```
 
 I bounce between shipping web apps, running coding agents like Claude Code, wiring up local models through OpenCode, and jumping into hackathon builds with a team when a good problem statement shows up. The stats section below pulls live from everything I've committed to — not just one project.
-
-<!--
-  📌 Want specific repos pinned here instead of just stats? Easiest way: go to
-  github.com/Parthpanchal587 → "Customize your pins" and pick up to 6 — GitHub
-  renders those natively at the top of your profile, no broken-image risk.
-
-  If you'd rather embed repo cards manually in this README, uncomment below
-  and replace REPO-NAME with a real, existing repo of yours:
-
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Parthpanchal587&repo=REPO-NAME&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
--->
 
 ---
 
@@ -134,20 +121,28 @@ I bounce between shipping web apps, running coding agents like Claude Code, wiri
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthpanchal587&theme=merko&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="95%"/>
+<!-- Live Contribution Profile & Activity Graph with matching matrix palette -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthpanchal587&theme=default&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" width="95%"/>
 
 </div>
 
 ## 🏆 Trophy Room
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Parthpanchal587&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2" />
+<img src="https://github-trophies.devomb.com/?username=Parthpanchal587&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2" />
 </div>
 
-## 🔝 Top Contributed Repos (across all projects)
+## 🔝 Featured Repositories
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Parthpanchal587&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" />
+
+<a href="https://github.com/Parthpanchal587/skillforge-ai">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Parthpanchal587&repo=skillforge-ai&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Parthpanchal587/Bhoomi-Nexus">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Parthpanchal587&repo=Bhoomi-Nexus&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+
 </div>
 
 ### ✍️ Random Dev Quote
