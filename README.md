@@ -29,11 +29,7 @@ status:      ● online — probably debugging something at 2 AM
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Parthpanchal587/Parthpanchal587/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
 
-<br/>
 
 ## 💻 What I Work On
 
